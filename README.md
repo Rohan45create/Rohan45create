@@ -47,5 +47,5 @@ Java desktop calculator with GUI built using Swing and AWT.
 
 ## Contact Me
 📫 **Email**: rohan45create@example.com  
-🔗 **LinkedIn**: [Rohan's LinkedIn](https://linkedin.com/in/rohan45create)  
+🔗 **LinkedIn**: [Rohan's LinkedIn]([https://linkedin.com/in/rohan45create](https://www.linkedin.com/in/rohan-gangawane-80a760264/))  
 
