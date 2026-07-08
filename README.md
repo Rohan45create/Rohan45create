@@ -1,64 +1,161 @@
-# 💫 About Me:
-Hi, I’m Rohan Gangawane, a passionate Computer Engineering student and aspiring Full Stack Developer who loves turning ideas into real-world software solutions. I enjoy solving problems, building scalable applications, and continuously strengthening my foundation in Data Structures & Algorithms.<br><br>
+<h1 align="center">Hi 👋, I'm Rohan Gangawane</h1>
+<h3 align="center" >Java Full Stack Developer | Final Year CS Student | Google Solution Challenge 2026 Winner 🏆</h3>
 
-I have hands-on experience with C, C++, Java, JavaScript, HTML, and CSS, and I actively work with modern technologies across the full stack including React, Node.js, Spring Boot, and multiple databases. I focus on writing clean, efficient, and maintainable code while understanding the logic deeply behind every implementation.<br><br>
-
-I’ve built practical projects such as e-commerce platforms, AI-based tools, and full-stack web applications, applying both frontend creativity and backend logic. Alongside development, I actively participate in technical competitions and continuously upskill through structured learning and real-world experimentation.<br><br>
-
-🚀 Currently focused on:
-- Mastering Java Full Stack Development  
-- Strengthening DSA for problem-solving excellence  
-- Building production-ready scalable applications  
-
-My goal is to become a strong software engineer who combines solid fundamentals, system-level thinking, and innovation to create impactful technology.
+<p align="center" width=100%>
+  <img width="full" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DFFF00&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Building+Scalable+Full+Stack+Applications;Google+Solution+Challenge+2026+Winner+%F0%9F%8F%8" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-gangawane-80a760264/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohangangawane106@gmail.com)
+### 💫 About Me:
+
+I'm a final-year Computer Engineering student (2026 batch) at MIT Aurangabad, working as a **Java Full Stack Developer**, building scalable, real-world applications that solve genuine problems. I recently **won the Google Solution Challenge 2026**, and I'm currently building **RouteShield** — an occlusion-robust road extraction and graph-theoretic resilience system — for ISRO's Bharatiya Antariksh Hackathon 2026.
+
+I care about writing clean, maintainable code, understanding systems deeply (not just implementing them), and combining strong fundamentals with real innovation.
+
+🚀 **Currently focused on:**
+- 🛰️ Building **RouteShield** — ML + geospatial + React stack for ISRO BAH 2026
+- 🧠 Strengthening **DSA** (Apna College playlist, ~halfway complete)
+- ⚙️ Mastering **Spring AI + Gemini** integrations for intelligent full stack apps
+- 🏗️ Deepening **System Design** (HLD/LLD) practices
+
+🏆 **Achievements:**
+- 🥇 **Google Solution Challenge 2026** — Winner
+- 🧩 TCS iON Career Edge ‑ Young Professional
+- 🛰️ McKinsey.org Forward Program
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+### 🌐 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohan-gangawane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/rohandev45" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="mailto:rohangangawane106@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://rohan-gangawane-portfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-DFFF00?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohan45create&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohan45create&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan45create&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💻 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🔤 Languages**
+<br>
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Backend & Frameworks**
+<br>
+![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**🎨 Frontend**
+<br>
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🗄️ Databases**
+<br>
+![Postgres](https://img.shields.io/badge/POSTGRES-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**🤖 AI / ML & Cloud**
+<br>
+![Gemini](https://img.shields.io/badge/GEMINI_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GCP](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🛠️ Tools & Design**
+<br>
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Rohan45create&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Featured Projects
 
-> 💡 "I don’t just write code — I build systems, solve problems, and continuously refine my fundamentals to engineer better solutions every day."
+| Project | Description | Stack |
+|---|---|---|
+| 🛰️ **RouteShield** | Occlusion-robust road extraction & graph-theoretic resilience analysis for ISRO BAH 2026 | ML, Geospatial, React |
+| 🏥 **MediCare** | AI-powered health dashboard with OCR lab reports & multilingual support (7 languages) | Spring Boot, React, Gemini AI, Tesseract |
+| 🚚 **ReliefChain** | Real-time disaster relief supply chain covering all 7 major API types | Spring Boot, Kafka, Redis, Spring AI |
+| 🍎 **AshaAI** | A multilingual AI health platform digitizing ASHA worker operations in rural Maharashtra. Features include automated NGO integration, AI genetic risk prediction, rapid Redis-backed caching, and Gemini-grounded research, powered by 20 Google technologies. | Google Cloud, Firebase, Python |
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohan45create&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan45create&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rohan45create&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan45create&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohan45create&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Rohan45create&icon=0&color=0" />
+</p>
+
+> 💡 *"I don't just write code — I build systems, solve problems, and continuously refine my fundamentals to engineer better solutions every day."*
